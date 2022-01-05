@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<HouseBuySell xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="emp.xsd">
+  <House>
+    <Houseid>1</Houseid>
+    <Name>Dream</Name>
+    <price>1.2Cr</price>
+    <info>2 BHK Flat for sale in Anora Kala, Lucknow
+Sky Ville Apartments ,Anora Kala, Lucknow
+Build Up Area
+1200 sq.ft</info>
+  </House>
+ <House>
+    <Houseid>2</Houseid>
+    <Name>Devine</Name>
+    <price>1.2Cr</price>
+    <info>2 BHK Flat for sale in Anora Kala, Lucknow
+Sky Ville Apartments ,Anora Kala, Lucknow
+Build Up Area
+1200 sq.ft</info>
+  </House>
+  
+  <House>
+    <Houseid>3</Houseid>
+    <Name>Moon</Name>
+    <price>1.2Cr</price>
+    <info>2 BHK Flat for sale in Anora Kala, Lucknow
+Sky Ville Apartments ,Anora Kala, Lucknow
+Build Up Area
+1200 sq.ft</info>
+  </House>
+  
+  <House>
+    <Houseid>4</Houseid>
+    <Name>Shadow</Name>
+    <price>1.2Cr</price>
+    <info>2 BHK Flat for sale in Anora Kala, Lucknow
+Sky Ville Apartments ,Anora Kala, Lucknow
+Build Up Area
+1200 sq.ft</info>
+  </House>
+</HouseBuySell>
